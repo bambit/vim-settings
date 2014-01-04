@@ -23,7 +23,7 @@ Change to your home directory
 
 Clone into `.vim` directory
 
-    git clone https://github.com/dustinboston/vim-settings.git .vim
+    git clone https://github.com/bambit/vim-settings.git .vim
 
 Link standard vim settings file to the `.vim` directory
 
